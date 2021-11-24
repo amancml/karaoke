@@ -7,7 +7,7 @@ if you're viewing this from the source code repository.
 
 [cinwell website](https://www.youtube.com/embed/KUMtJ7Rufkg ':include :type=iframe width=100% height=400px')
 
-[cinwell website](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true ':include :type=iframe width=100% height=100px')
+[cinwell website](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false ':include :type=iframe width=100% height=100px')
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/riponkhadem" title="riponkhadem" target="_blank" style="color: #cccccc; text-decoration: none;">riponkhadem</a> · <a href="https://soundcloud.com/riponkhadem/mere-sapno-ki-rani-hindi-karaoke" title="Mere Sapno Ki Rani Hindi Karaoke" target="_blank" style="color: #cccccc; text-decoration: none;">Mere Sapno Ki Rani Hindi Karaoke</a></div>
 ## About this study group
