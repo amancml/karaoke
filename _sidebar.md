@@ -1,3 +1,7 @@
+- Kishor Kumar
+    - [Mere Sapno ki Rani](kishor/mere_sapno_ki_rani.md)
+    - [Study Groups](wwcodemanila/study_groups.md)
+
 - Women Who Code Manila
     - [About WWCode Manila](wwcodemanila/about.md)
     - [Study Groups](wwcodemanila/study_groups.md)
