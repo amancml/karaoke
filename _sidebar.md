@@ -1,3 +1,6 @@
+- Singer's List
+    - [List](/singer_list.md)
+
 - Kishore Kumar
     - [About Kishore Kumar](kishore/kishore.md)
     - [Kishore Kumar's Songs](kishore/kishore_song_list.md)
