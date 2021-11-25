@@ -5,10 +5,19 @@ To our humble karaoke together
 <!-- !> Please go to our official [GitHub Page](https://amanmittal.me/)
 if you're viewing this from the source code repository. -->
 
-## About this Karaoke
+<!-- ## About this Karaoke
 
 !> If you're not yet familiar with study groups, read this [document](wwcodemanila/study_groups.md)
-first to know what they are.
+first to know what they are. -->
+
+## List of all this Singers Currently Available
+
+* [Kishore Kumar](kishore/kishore.md)
+* [Kishore Kumar](kishore/kishore.md)
+* [Kishore Kumar](kishore/kishore.md)
+* [Kishore Kumar](kishore/kishore.md)
+
+<!-- ## [Go to Singler's List](list.md) -->
 
 <!-- This study group is held once a month and is led by our volunteer leaders.
 
