@@ -7,7 +7,7 @@ if you're viewing this from the source code repository.
 
 [cinwell website](https://www.youtube.com/embed/KUMtJ7Rufkg ':include :type=iframe width=100% height=400px')
 
-[cinwell website](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true ':include :type=iframe width=100% height=100px')
+[cinwell website](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true ':include :type=iframe width=100% height=150px')
 
 ## About this study group
 

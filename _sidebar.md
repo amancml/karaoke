@@ -1,5 +1,7 @@
-- Kishor Kumar
-    - [Mere Sapno ki Rani](kishor/mere_sapno_ki_rani.md)
+- Kishore Kumar
+    - [About Kishore Kumar](kishore/kishore.md)
+    - [Kishore Kumar's Songs](kishore/kishore_song_list.md)
+        - [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
     - [Study Groups](wwcodemanila/study_groups.md)
 
 - Women Who Code Manila
