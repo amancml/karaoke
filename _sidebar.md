@@ -2,9 +2,8 @@
     - [About Kishore Kumar](kishore/kishore.md)
     - [Kishore Kumar's Songs](kishore/kishore_song_list.md)
         - [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
-    - [Study Groups](wwcodemanila/study_groups.md)
 
-- Women Who Code Manila
+<!-- - Women Who Code Manila
     - [About WWCode Manila](wwcodemanila/about.md)
     - [Study Groups](wwcodemanila/study_groups.md)
 
@@ -68,4 +67,4 @@
     - [Adding VueJS to the application (continuation)](django/09_vue_cont.md)
 
 - Resources
-    - [References](resources/references.md)
+    - [References](resources/references.md) -->

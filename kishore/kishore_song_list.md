@@ -1,7 +1,8 @@
 List of Kishore Kumar's Song
 
    * [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
-   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
+
+   <!-- * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
    * [BaaS](#baas)
@@ -47,4 +48,4 @@ List of Kishore Kumar's Song
    * [Web Hosting](#web-hosting)
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
-   * [Other Free Resources](#other-free-resources)
+   * [Other Free Resources](#other-free-resources) -->

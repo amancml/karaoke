@@ -1,14 +1,3 @@
-Study groups are events where members can come together and help each other learn and understand a specific programming language, technology, or anything related to coding, engineering, design.
-
-Everyone is welcome to the event as long as they want to learn and share their knowledge with the community and they are following the [code of conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md).
-
-!> Study groups are **not** classes, workshops, seminars, or lectures. It’s about everyone in the **community learning together**.
-
-Visit our [Meetup page](https://bit.ly/wwcodemanilameetups) for the schedule of upcoming study groups and other events.
-
-
-## Guidelines
-
 - Song Title: **Mere Sapnon Ki Rani Kab Aayegi Tu**
 - Movie: **Aradhana (1969)**
 - Singer: **Kishore Kumar**
@@ -112,14 +101,6 @@ Visit our [Meetup page](https://bit.ly/wwcodemanilameetups) for the schedule of 
 
 [Audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236767339&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false ':include :type=iframe width=100% height=100px')
 
-## Go getter
-
-We need something here
-
 ## Video
 
-[Video](https://www.youtube.com/embed/KUMtJ7Rufkg ':include :type=iframe width=100% height=400px')
-
-## Code of conduct
-
-Everyone joining this study group and other Women Who Code events must follow our [code of conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md).
+<iframe width=100% height="400" src="https://www.youtube.com/embed/2VPWpsdtAdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
