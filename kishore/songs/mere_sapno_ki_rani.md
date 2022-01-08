@@ -5,6 +5,10 @@
 - Music: **S. D. Burman**
 - Music Label: **Rajshri**
 
+## Audio
+
+[Audio](https://github.com/amancml/karaoke/blob/main/audio/mere_sapno_ki_rani.mp3?raw=true ':include :type=audio controls width=200%')
+
 ## Lyrics
 
 हो.. ए हे हे आ आ.. 
@@ -97,11 +101,7 @@
 
 चली आ, आ तू चली आ..
 
-## Audio
-<audio controls="controls" src="http://gist-it.appspot.com/github/amancml/karaoke/blob/main/kishore/songs/MERE%20SAPNO%20KI%20RANI.mp3">
-<p>Your browser does not support the audio element.</p>
-</audio>
-[Audio](https://github.com/amancml/karaoke/blob/main/audio/mere_sapno_ki_rani.mp3 ':include :type=audio controls width=100%')
+
 
 ## Video
 
