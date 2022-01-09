@@ -3,7 +3,7 @@
 - Singer: **Kishore Kumar**
 - Lyrics: **Anand Bakshi**
 - Music: **S. D. Burman**
-- Music Label: **Rajshri**
+- Music Label: **Saregama**
 
 ## Audio
 

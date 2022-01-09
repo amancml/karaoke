@@ -5,6 +5,7 @@
     - [About Kishore Kumar](kishore/kishore.md)
     - [Kishore Kumar's Songs](kishore/kishore_song_list.md)
         - [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
+        - [O Hansini](kishore/songs/o_hansini.md)
 
 <!-- - Women Who Code Manila
     - [About WWCode Manila](wwcodemanila/about.md)

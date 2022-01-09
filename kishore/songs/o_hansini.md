@@ -11,19 +11,33 @@
 
 ## Lyrics
 
-ओ हंसिनी मेरी हंसिनी, कहाँ उड़ चली<br>
-मेरे अरमानों के पंख लगा के, कहाँ उड़ चली<br>
+ओ हँसनी - मेरी हँसनी, कहाँ उड़ चली<br>
+मेरे अरमानो के पँख लगाके, कहाँ उड़ चली<br>
 
-आजा मेरी सांसो में महक रहा रे तेरा गजरा<br>
-आजा मेरी रातों में लहक रहा रे तेरा कजरा<br>
-ओ हंसीनी....<br>
+ओ हँसनी - मेरी हँसनी, कहाँ उड़ चली<br>
+मेरे अरमानो के पँख लगाके, कहाँ उड़ चली<br>
 
-देर से लहरों में कमल संभाले हुए मन का<br>
-जीवन ताल में भटक रहा रे तेरा हंसा<br>
-ओ हंसीनी...<br>
+आजा मेरी साँसों मैं महक रहा रे तेरा गजरा<br>
+ओ आजा मेरी रातों मैं लहक रहा रे तेरा कजरा <br>
+
+आजा मेरी साँसों मैं महक रहा रे तेरा गजरा<br>
+ओ आजा मेरी रातों मैं लहक रहा रे तेरा कजरा<br>
+
+ओ हँसनी ... मेरी हँसनी, कहाँ उड़ चली, <br>
+मेरे अरमानो के पँख लगाके, कहाँ उड़ चली <br>
+
+देर से लहरों मैं कमल सम्भाले हुए मन का<br>
+जीवन टाल मैं भटक रहा रे तेरा हँसा<br>
+
+देर से लहरों मैं कमल सम्भाले हुए मन का<br>
+जीवन टाल मैं भटक रहा रे तेरा हँसा<br>
+
+ओ हँसनी - मेरी हँसनी, कहाँ उड़ चली,<br> 
+मेरे अरमानो के पँख लगाके, कहाँ उड़ चली <br>
+कहाँ उड़ चली कहाँ उड़ चली .<br>
 
 
 
 ## Video
 
-<iframe width=100% height="400" src="https://www.youtube.com/embed/2VPWpsdtAdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="400" src="https://www.youtube.com/watch?v=R4Vj_XsfHTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
