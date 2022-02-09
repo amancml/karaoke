@@ -5,5 +5,6 @@ List of Kishore Kumar's Song
 
 * [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
 * [O Hansini](kishore/songs/o_hansini.md)
+* [Kehna Hai](kishore/songs/kehna_hai.md)
 
 <!-- ### [Go to Song's List 🔗](kishore/kishore_song_list.md) -->
