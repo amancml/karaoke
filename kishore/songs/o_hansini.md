@@ -7,7 +7,7 @@
 
 ## Audio
 
-[Audio](https://github.com/kg-0805/karaoke/blob/main/audio/o_hansini.mp3?raw=true ':include :type=audio controls width=200%')
+[Audio](https://github.com/kg-0805/karaoke/blob/main/audio/Kishore%20Kumar/o_hansini.mp3?raw=true ':include :type=audio controls width=200%')
 
 ## Lyrics
 

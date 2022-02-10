@@ -7,7 +7,7 @@
 
 ## Audio
 
-[Audio](https://github.com/kg-0805/karaoke/blob/main/audio/kehna_hai.mp3?raw=true ':include :type=audio controls width=200%')
+[Audio](https://github.com/kg-0805/karaoke/blob/main/audio/Kishore%20Kumar/kehna_hai.mp3?raw=true ':include :type=audio controls width=200%')
 
 ## Lyrics
 
