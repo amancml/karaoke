@@ -2,6 +2,11 @@ List of Kishore Kumar's Song
 ============================
 
 * [Mere Sapno ki Rani](kishore/songs/mere_sapno_ki_rani.md)
+* [O Hansini](kishore/songs/o_hansini.md)
+* [Kehna Hai](kishore/songs/kehna_hai.md)
+* [Neele Neele Ambar Par](kishore/songs/neele_neele_ambar_par.md)
+* [Pal Pal Dil Ke Paas](kishore/songs/pal_pal_dil_ke_paas.md)
+* [Roop Tera Mastana](kishore/songs/roop_tera_mastana.md)
 
    <!-- * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)

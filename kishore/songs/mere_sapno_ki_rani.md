@@ -3,11 +3,11 @@
 - Singer: **Kishore Kumar**
 - Lyrics: **Anand Bakshi**
 - Music: **S. D. Burman**
-- Music Label: **Rajshri**
+- Music Label: **Saregama**
 
 ## Audio
 
-[Audio](https://github.com/amancml/karaoke/blob/main/audio/mere_sapno_ki_rani.mp3?raw=true ':include :type=audio controls width=200%')
+[Audio](https://github.com/kg-0805/karaoke/blob/main/audio/Kishore%20Kumar/mere_sapno_ki_rani.mp3?raw=true ':include :type=audio controls width=200%')
 
 ## Lyrics
 
