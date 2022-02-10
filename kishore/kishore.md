@@ -7,6 +7,6 @@ List of Kishore Kumar's Song
 * [O Hansini](kishore/songs/o_hansini.md)
 * [Kehna Hai](kishore/songs/kehna_hai.md)
 * [Neele Neele Ambar Par](kishore/songs/neele_neele_ambar_par.md)
-* [Pal Pal Dil Ke Pass](kishore/songs/pal_pal_dil_ke_paas.md)
+* [Pal Pal Dil Ke Paas](kishore/songs/pal_pal_dil_ke_paas.md)
 
 <!-- ### [Go to Song's List 🔗](kishore/kishore_song_list.md) -->
