@@ -7,6 +7,7 @@ List of Kishore Kumar's Song
 * [Neele Neele Ambar Par](kishore/songs/neele_neele_ambar_par.md)
 * [Pal Pal Dil Ke Paas](kishore/songs/pal_pal_dil_ke_paas.md)
 * [Roop Tera Mastana](kishore/songs/roop_tera_mastana.md)
+* [Pyar Deewana Hota Hai](kishore/songs/pyar_deewana_hota_hai.md)
 
    <!-- * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
